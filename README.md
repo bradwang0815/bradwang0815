@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Brad Wang
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Full+Stack+Developer;Building+Scalable+Web+Applications;UI%2FUX+Focused+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Senior+FullStack+Engineer;React+%7C+Next.js+%7C+TypeScript;Full+Stack+Developer;Building+Scalable+Web+Applications;UI%2FUX+Focused+Engineer" />
 
 </div>
 
@@ -13,7 +13,7 @@
 ```ts
 const brad = {
   role: "Senior Frontend / Full Stack Engineer",
-  experience: "9+ Years",
+  experience: "5+ Years",
   location: "North America",
   frontend: ["React", "Next.js", "Vue", "Angular", "TypeScript"],
   backend: ["Node.js", "Python", "Laravel", "Express"],
