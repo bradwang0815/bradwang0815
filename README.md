@@ -12,7 +12,7 @@
     <a href="https://github.com/bradwang0815">
          <img src="https://komarev.com/ghpvc/?username=bradwang0815&label=Profile+Views&color=2563EB&style=for-the-badge" />
     </a>
-    <a href="https://github.com/bradwang0815">
+    <a href="https://iambradwang-bice.vercel.app">
         <img src="https://img.shields.io/badge/Portfolio-bradwang.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
 </p>
