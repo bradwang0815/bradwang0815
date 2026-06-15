@@ -64,12 +64,10 @@
 </table>
 
 <p align="center">
-    <a href="https://github.com/bradwang0815">
-        <img src="https://github-readme-stats.vercel.app/api?username=bradwang0815&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-    </a>
-    <a href="https://github.com/bradwang0815">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bradwang0815&theme=gotham&hide_border=true" width="48%" alt="GitHub Streak"/>
-    </a>
+    <b>Professional Impact</b><br/>
+    <span style="display: inline-block; margin: 8px 12px;">🚀 <b>40%</b> faster deployments (CI/CD + AI)</span>
+    <span style="display: inline-block; margin: 8px 12px;">📊 <b>12K+</b> events/day processed @ sub‑300ms</span>
+    <span style="display: inline-block; margin: 8px 12px;">⚡ <b>60%</b> reduction in manual reporting for ops teams</span>
 </p>
 
 <p align="center">
